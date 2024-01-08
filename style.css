@@ -8,6 +8,8 @@
 .body{
     background-color: #26190a;
     user-select: none;
+    position: fixed;
+    width: 100%;
 }
 header{
     height: 70px;
